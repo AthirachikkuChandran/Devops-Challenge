@@ -1,0 +1,10 @@
+hi this is for linux basic commands 
+mkdir - make a directory 
+touch- make a file
+ls- list
+mv sourse destination - move a file
+cp sourse destination - copy a file
+cd .. - move to previous folder 
+rmdir - remove empty directory
+rm -r - remove all
+
